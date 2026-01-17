@@ -4,13 +4,13 @@ This repository contains beginner-level data analysis and machine learning proje
 implemented using Python. The projects focus on data cleaning, exploratory data analysis, 
 basic machine learning models, and drawing insights from real datasets.
 
-## Project
+## Projects:
 - Objective: using machine learning
 - Work done: Data cleaning, exploratory data analysis, and classification modeling
 - Model evaluation: Precision, Recall, and F1-score
 - Tools used: Python, pandas, scikit-learn
 
-- ## 📄 Report
+- ## 📄 Report:
 A detailed project report was prepared for each project.  
 Due to file size limitations, reports are not uploaded here.  
 Available on request.
