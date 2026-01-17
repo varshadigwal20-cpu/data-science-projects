@@ -9,3 +9,9 @@ basic machine learning models, and drawing insights from real datasets.
 - Work done: Data cleaning, exploratory data analysis, and classification modeling
 - Model evaluation: Precision, Recall, and F1-score
 - Tools used: Python, pandas, scikit-learn
+
+- ## 📄 Report
+A detailed project report was prepared for each project.  
+Due to file size limitations, reports are not uploaded here.  
+Available on request.
+
